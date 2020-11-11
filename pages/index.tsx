@@ -111,11 +111,7 @@ const Page: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
 
       <p className="mt4 measure-phrase mh3 mb0">
         Hi! I’m a software engineer interested in web technologies, interfaces,
-        platforms, and culture.
-      </p>
-
-      <p className="mt4 mh3 mb0 measure-phrase">
-        I live in Silver Lake, Los Angeles, and work at Opendoor.
+        platforms and culture. I live in Los Angeles and work at Opendoor.
       </p>
 
       {chans && (
