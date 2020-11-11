@@ -156,7 +156,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
   const res = await fetch("https://api.are.na/v2/users/6442/channels", {
     headers: {
       "content-type": "application/json",
-      Authorization: `Bearer 862c7f5529baf0b2983819b9a857c7eab376558cd4436f5a29a269ae85221893`,
+      Authorization: `Bearer ${process.env.ARENA_TOKEN}`,
     },
   });
 
