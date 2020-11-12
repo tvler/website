@@ -6,7 +6,7 @@
   background-color: #f9fbff;
   color: #333;
   font-family: Palatino, serif;
-  font-size: 19px; /* fixes weird underline antialias thing */
+  font-size: 19px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -16,7 +16,7 @@
 }
 
 .measure-phrase {
-  max-width: 21em;
+  max-width: 26em;
 }
 
 .f8 {

@@ -175,7 +175,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
     props: {
       chans,
     },
-    revalidate: 60 * 10, // 10 min
+    revalidate: 60, // 1 min
   };
 };
 
