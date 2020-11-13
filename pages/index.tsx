@@ -110,8 +110,9 @@ const Page: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
       {moreLinksIndex > 5 && <p className="mv0 mh3">☯&#xFE0E;</p>}
 
       <p className="mt4 measure-phrase mh3 mb0">
-        Hi! I’m a software engineer interested in web technologies, interfaces,
-        platforms and culture. I live in Los Angeles and work at Opendoor.
+        Hi! I’m a software engineer interested in web technologies, user
+        interfaces, platforms and culture. I live in Los Angeles and work at
+        Opendoor.
       </p>
 
       {chans && (
