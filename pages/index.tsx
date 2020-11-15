@@ -1,5 +1,6 @@
 import { NextPage, GetStaticProps, InferGetStaticPropsType } from "next";
-import { Fragment, useState } from "react";
+import Head from "next/head";
+import { useState } from "react";
 import { formatDistanceToNow, parseISO } from "date-fns";
 
 type Chan = {
@@ -8,11 +9,6 @@ type Chan = {
   length: string;
   updated_at: string;
   slug: string;
-};
-
-type Link = {
-  href: string;
-  title: string;
 };
 
 type Props = {
@@ -42,6 +38,20 @@ const Page: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
 
   return (
     <>
+      <Head>
+        <link rel="icon" href="/favicon.ico" />
+        <meta charSet="utf-8" />
+        <meta
+          name="viewport"
+          content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover"
+        />
+        <meta
+          name="description"
+          content="Tyler Deitz is a software engineer who lives in Los Angeles and works at Opendoor."
+        />
+        <title>Tyler Deitz</title>
+      </Head>
+
       <h1 className="mb0 f4 fw5 i mt3 mh3">Tyler Deitz</h1>
 
       <p className="mv0 sans mh3">
