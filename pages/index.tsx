@@ -20,7 +20,9 @@ const Page: NextPage = () => {
         <title>Tyler Deitz</title>
       </Head>
 
-      <p className="mt5 measure-phrase mh3">
+      <img width="35" className="mh3 mt5" src="/phone.webp" />
+
+      <p className="mt4 measure-phrase mh3">
         Software engineer interested in web technologies, user
         interfaces, platforms and culture. I live in Los Angeles and work at
         Mirror.
