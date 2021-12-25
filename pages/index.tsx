@@ -20,7 +20,7 @@ const Page: NextPage = () => {
         <title>Tyler Deitz</title>
       </Head>
 
-      <img width="35" height="59" className="mh3 mt5" src="/phone.gif" />
+      <img width="35" height="59" className="mh3 mt5" src="/iphone-faster.webp" />
 
       <p className="mt3 measure-phrase mh3">
         Software engineer interested in web technologies, user
@@ -28,7 +28,7 @@ const Page: NextPage = () => {
         Mirror.
       </p>
 
-      <p className="mt3 mh3">
+      <p className="mt2 mh3">
         <a className="cool-blue" href="https://github.com/tvler">
           GitHub
         </a>
