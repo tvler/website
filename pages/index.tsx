@@ -20,15 +20,15 @@ const Page: NextPage = () => {
         <title>Tyler Deitz</title>
       </Head>
 
-      <img width="35" className="mh3 mt5" src="/phone.webp" />
+      <img width="35" height="59" className="mh3 mt5" src="/phone.gif" />
 
-      <p className="mt4 measure-phrase mh3">
+      <p className="mt3 measure-phrase mh3">
         Software engineer interested in web technologies, user
         interfaces, platforms and culture. I live in Los Angeles and work at
         Mirror.
       </p>
 
-      <p className="mt4 mh3">
+      <p className="mt3 mh3">
         <a className="cool-blue" href="https://github.com/tvler">
           GitHub
         </a>
