@@ -20,7 +20,7 @@ const Page: NextPage = () => {
         <title>Tyler Deitz</title>
       </Head>
 
-      <img width="35" height="59" className="mh3 mt5" src="/iphone-faster.webp" />
+      <img width="35" height="59" className="mh3 mt5" src="/iphone-fastest.webp" />
 
       <p className="mt3 measure-phrase mh3">
         Software engineer interested in web technologies, user
