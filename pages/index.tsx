@@ -25,7 +25,7 @@ const Page: NextPage = () => {
       <p className="mt3 measure-phrase mh3">
         Software engineer interested in web technologies, user
         interfaces, platforms and culture. I live in Los Angeles and work at
-        Mirror.
+        Mirror (<a className="cool-blue" href="https://abc.mirror.xyz/">abc.mirror.xyz</a>).
       </p>
 
       <p className="mt2 mh3">
