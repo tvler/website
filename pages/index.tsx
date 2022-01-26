@@ -29,7 +29,7 @@ const Page: NextPage = () => {
       </p>
 
       <p className="measure-phrase mh3">
-        Previously – Open Listings (acq by Opendoor), iFixit, and a small amount of work for Are.na.
+        Previously – Open Listings (acq by Opendoor), iFixit, and a bit of work for&nbsp;Are.na.
       </p>
 
       <p className="mh3">
