@@ -22,13 +22,17 @@ const Page: NextPage = () => {
 
       <img width="35" height="59" className="mh3 mt5" src="/iphone-fastest.webp" />
 
-      <p className="mt3 measure-phrase mh3">
+      <p className="measure-phrase mh3">
         Software engineer interested in web technologies, user
         interfaces, platforms and culture. I live in Los Angeles and work at
         Mirror (<a className="cool-blue" href="https://abc.mirror.xyz/">abc.mirror.xyz</a>).
       </p>
 
-      <p className="mt2 mh3">
+      <p className="measure-phrase mh3">
+        Previously – Open Listings (acq by Opendoor), iFixit, and a small amount of work for Are.na.
+      </p>
+
+      <p className="mh3">
         <a className="cool-blue" href="https://github.com/tvler">
           GitHub
         </a>
