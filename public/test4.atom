@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>test3</id>
-    <title>test3</title>
+    <id>test4</id>
+    <title>test4</title>
     <updated>2022-03-09T16:56:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mirror.xyz/lensprotocol.eth/"/>
@@ -11,7 +11,7 @@
         <id>https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek</id>
         <link href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek"/>
         <updated>2022-03-09T16:56:47.000Z</updated>
-        <content type="html"><![CDATA[<p>Full entry: <a href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek">https://&shy;m&shy;i&shy;r&shy;r&shy;o&shy;r&shy;.&shy;x&shy;y&shy;z&shy;/&shy;l&shy;e&shy;n&shy;s&shy;p&shy;r&shy;o&shy;t&shy;o&shy;c&shy;o&shy;l&shy;.&shy;e&shy;t&shy;h&shy;/&shy;W&shy;r&shy;Y&shy;E&shy;e&shy;o&shy;x&shy;i&shy;j&shy;Z&shy;D&shy;i&shy;q&shy;L&shy;e&shy;z&shy;K&shy;V&shy;m&shy;N&shy;8&shy;Y&shy;d&shy;m&shy;S&shy;X&shy;g&shy;W&shy;P&shy;R&shy;y&shy;y&shy;I&shy;C&shy;J&shy;z&shy;P&shy;3&shy;N&shy;k&shy;3&shy;E&shy;k</a></p>
+        <content type="html"><![CDATA[<p>Full entry: <a href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek">https://<wbr>m<wbr>i<wbr>r<wbr>r<wbr>o<wbr>r<wbr>.<wbr>x<wbr>y<wbr>z<wbr>/<wbr>l<wbr>e<wbr>n<wbr>s<wbr>p<wbr>r<wbr>o<wbr>t<wbr>o<wbr>c<wbr>o<wbr>l<wbr>.<wbr>e<wbr>t<wbr>h<wbr>/<wbr>W<wbr>r<wbr>Y<wbr>E<wbr>e<wbr>o<wbr>x<wbr>i<wbr>j<wbr>Z<wbr>D<wbr>i<wbr>q<wbr>L<wbr>e<wbr>z<wbr>K<wbr>V<wbr>m<wbr>N<wbr>8<wbr>Y<wbr>d<wbr>m<wbr>S<wbr>X<wbr>g<wbr>W<wbr>P<wbr>R<wbr>y<wbr>y<wbr>I<wbr>C<wbr>J<wbr>z<wbr>P<wbr>3<wbr>N<wbr>k<wbr>3<wbr>E<wbr>k</a></p>
 <blockquote>
 <p>The Lens Protocol leverages the power of Web3 to facilitate building more fair, transparent, and composable social applications. But building and integrating with Web3 technologies often requires a deep knowledge of smart contract development, which introduces friction for those with little Web3 development experience or for those who just want to start building. Thatâ€™s why Lens Protocol will have its own API, making it easy to engage in complex development! The Lens API will leave the heavy lifting to the backend so developers can focus exclusively on crafting innovative experiences for the end-user.</p>
 </blockquote>
