@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>test5</id>
-    <title>test5</title>
+    <id>test6</id>
+    <title>test6</title>
     <updated>2022-03-09T16:56:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mirror.xyz/lensprotocol.eth/"/>
@@ -11,7 +11,7 @@
         <id>https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek</id>
         <link href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek"/>
         <updated>2022-03-09T16:56:47.000Z</updated>
-        <content type="html"><![CDATA[<p>Full entry: <a href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek">https://&#173;m&#173;i&#173;r&#173;r&#173;o&#173;r&#173;.&#173;x&#173;y&#173;z&#173;/&#173;l&#173;e&#173;n&#173;s&#173;p&#173;r&#173;o&#173;t&#173;o&#173;c&#173;o&#173;l&#173;.&#173;e&#173;t&#173;h&#173;/&#173;W&#173;r&#173;Y&#173;E&#173;e&#173;o&#173;x&#173;i&#173;j&#173;Z&#173;D&#173;i&#173;q&#173;L&#173;e&#173;z&#173;K&#173;V&#173;m&#173;N&#173;8&#173;Y&#173;d&#173;m&#173;S&#173;X&#173;g&#173;W&#173;P&#173;R&#173;y&#173;y&#173;I&#173;C&#173;J&#173;z&#173;P&#173;3&#173;N&#173;k&#173;3&#173;E&#173;k</a></p>
+        <content type="html"><![CDATA[<p>Full entry: <a href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek">https://&#8203;m&#8203;i&#8203;r&#8203;r&#8203;o&#8203;r&#8203;.&#8203;x&#8203;y&#8203;z&#8203;/&#8203;l&#8203;e&#8203;n&#8203;s&#8203;p&#8203;r&#8203;o&#8203;t&#8203;o&#8203;c&#8203;o&#8203;l&#8203;.&#8203;e&#8203;t&#8203;h&#8203;/&#8203;W&#8203;r&#8203;Y&#8203;E&#8203;e&#8203;o&#8203;x&#8203;i&#8203;j&#8203;Z&#8203;D&#8203;i&#8203;q&#8203;L&#8203;e&#8203;z&#8203;K&#8203;V&#8203;m&#8203;N&#8203;8&#8203;Y&#8203;d&#8203;m&#8203;S&#8203;X&#8203;g&#8203;W&#8203;P&#8203;R&#8203;y&#8203;y&#8203;I&#8203;C&#8203;J&#8203;z&#8203;P&#8203;3&#8203;N&#8203;k&#8203;3&#8203;E&#8203;k</a></p>
 <blockquote>
 <p>The Lens Protocol leverages the power of Web3 to facilitate building more fair, transparent, and composable social applications. But building and integrating with Web3 technologies often requires a deep knowledge of smart contract development, which introduces friction for those with little Web3 development experience or for those who just want to start building. Thatâ€™s why Lens Protocol will have its own API, making it easy to engage in complex development! The Lens API will leave the heavy lifting to the backend so developers can focus exclusively on crafting innovative experiences for the end-user.</p>
 </blockquote>
