@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mirror.xyz/lensprotocol.eth/</id>
+    <title>Lens Protocol</title>
+    <updated>2022-03-09T16:56:47.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mirror.xyz/lensprotocol.eth/"/>
+    <icon>https://pbs.twimg.com/profile_images/1483792977034199040/rZgw0wfF_normal.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Lens Protocol API]]></title>
+        <id>https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek</id>
+        <link href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek"/>
+        <updated>2022-03-09T16:56:47.000Z</updated>
+        <content type="html"><![CDATA[<p>Full entry: <a style="word-break: break-all;" href="https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek">https://mirror.xyz/lensprotocol.eth/WrYEeoxijZDiqLezKVmN8YdmSXgWPRyyICJzP3Nk3Ek</a></p>
+<blockquote>
+<p>The Lens Protocol leverages the power of Web3 to facilitate building more fair, transparent, and composable social applications. But building and integrating with Web3 technologies often requires a deep knowledge of smart contract development, which introduces friction for those with little Web3 development experience or for those who just want to start building. Thatâ€™s why Lens Protocol will have its own API, making it easy to engage in complex development! The Lens API will leave the heavy lifting to the backend so developers can focus exclusively on crafting innovative experiences for the end-user.</p>
+</blockquote>
+<p><em>Mirror RSS is in beta. Send feedback to tyler@mirror.xyz.</em></p>
+]]></content>
+        <author>
+            <name>Lens Protocol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Lens Protocol]]></title>
+        <id>https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as</id>
+        <link href="https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as"/>
+        <updated>2022-02-07T17:07:53.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as"><img src="https://images.mirror-media.xyz/nft/fxLLnfELgHtWF_DcH4TfA.png" alt="" /></a></p>
+<p>Full entry: <a href="https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as">https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as</a></p>
+<blockquote>
+<p>From the dev team that brought you the Aave Protocol</p>
+</blockquote>
+<p><em>Mirror RSS is in beta. Send feedback to tyler@mirror.xyz.</em></p>
+]]></content>
+        <author>
+            <name>Lens Protocol</name>
+        </author>
+    </entry>
+</feed>
