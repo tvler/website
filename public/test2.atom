@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>test2</id>
-    <title>Lens Protocol</title>
+    <title>test2</title>
     <updated>2022-03-09T16:56:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mirror.xyz/lensprotocol.eth/"/>
