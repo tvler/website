@@ -8,6 +8,7 @@ const Page: NextPage = () => {
     <>
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="me" href="https://mastodon.social/@tvler" />
         <meta charSet="utf-8" />
         <meta
           name="viewport"
@@ -20,11 +21,8 @@ const Page: NextPage = () => {
         <title>Tyler Deitz</title>
       </Head>
 
-      <img width="35" height="59" className="mh3 mt5" src="/iphone-fastest.webp" />
-
       <p className="measure-phrase mh3">
-        Software engineer interested in web technologies, user
-        interfaces, platforms and culture. I live in Los Angeles and work at
+        Software engineer in Los Angeles working at
         Mirror (<a className="cool-blue" href="https://abc.mirror.xyz/">abc.mirror.xyz</a>).
       </p>
 
