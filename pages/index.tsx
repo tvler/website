@@ -43,6 +43,10 @@ const Page: NextPage = () => {
           Twitter
         </a>
         {spacer}
+        <a className="cool-blue" href="https://mastodon.social/@tvler">
+          Mastodon
+        </a>
+        {spacer}
         <a className="cool-blue" href="mailto:tylerdeitz@gmail.com">
           Email
         </a>
